@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>images/Finance.jpg</file>
+        <file>images/Lesson.jpg</file>
+        <file>images/Schedule.jpg</file>
+        <file>images/setting.jpg</file>
+        <file>images/StuInfo.jpg</file>
+        <file>images/TeachSystem.png</file>
+        <file>images/Wall.png</file>
+    </qresource>
+    <qresource prefix="/new/style">
+        <file>style/style.qss</file>
+    </qresource>
+</RCC>
